@@ -1,4 +1,3 @@
-// src/protocol/CollabVMProtocolMessage.ts (or similar)
 import { CollabVMRectMessage } from "./CollabVMRectMessage.js";
 
 export interface CollabVMProtocolMessage {
