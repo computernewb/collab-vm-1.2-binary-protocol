@@ -1,8 +1,8 @@
 export class CollabVMCapabilities {
-    // Support for JPEG screen rects in binary msgpack format
-    bin: boolean;
+	// Support for JPEG screen rects in binary msgpack format
+	bin: boolean;
 
-    constructor() {
-        this.bin = false;
-    }
+	constructor() {
+		this.bin = false;
+	}
 }
